@@ -1,0 +1,29 @@
+.googleheader{
+    text-align: center;
+    font-size: 60px;
+    padding: 40px 40px 10px 40px;
+}
+.google-iput{
+    display: flex;
+    justify-content: center;
+}
+input{
+    width: 40%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 8px 4px -7px #000;
+}
+.submit{
+    display: flex;
+    justify-content: center;
+}
+button{
+    padding: 4px;
+    border-style: solid;
+    border-color: blue;
+    border-radius: 4px;
+}
+button:hover{
+    background-color: blue;
+    color: white;
+}
